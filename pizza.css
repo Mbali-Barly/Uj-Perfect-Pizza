@@ -38,9 +38,9 @@ body {
 .pizza {
     display: flex;
     }
-.data1 {text-align: right;
+.data1 {text-align: left;
 }
-.data2 {text-align: left;
+.data2 {text-align: right;
 }
 }
 
