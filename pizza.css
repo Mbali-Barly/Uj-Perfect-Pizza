@@ -38,6 +38,10 @@ body {
 .pizza {
     display: flex;
     }
+.data1 {text-align: right;
+}
+.data2 {text-align: left;
+}
 }
 
 
@@ -46,5 +50,6 @@ h2 {text-align: center;}
 
 .Contact_details {text-align: center;
 }
+
 
 
