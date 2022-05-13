@@ -1,6 +1,6 @@
 
 body {
-    background-color: #457b9d;
+    background-image: radial-gradient(purple, pink, blue);
 }
 
 .Large_pizza {
@@ -33,7 +33,7 @@ body {
 }
 @media (min-width: 768px) {
     body {
-    background-color: #7db0d1;
+    background-image: repeating-radial-gradient(purple, pink 10%, blue 15%);
 }
 .pizza {
     display: flex;
