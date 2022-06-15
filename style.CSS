@@ -9,20 +9,23 @@ body {
     margin: 1em;
     border-radius : 1em;
     background-color: #d62828;
+    flex: 1;
 }        
 .Medium_pizza {
     background-color: #f77f00;
     border : 0.5em solid;
     border-radius : 1em;
     margin : 1em;
-    padding : 1em;            
+    padding : 1em; 
+    flex: 1;           
 }
 .Small_pizza {
     background-color: #fcbf49;
     border : 0.5em solid;
     border-radius : 1em;
     margin : 1em;
-    padding : 1em;            
+    padding : 1em;  
+    flex: 1;          
 }
 .Contact_details {
     background-color: #eae2b7;
